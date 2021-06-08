@@ -1,0 +1,16 @@
+D:\Users\ramal\CodingTrials\c#\FirstNNumberSum\bin\Debug\net5.0\FirstNNumberSum.exe
+D:\Users\ramal\CodingTrials\c#\FirstNNumberSum\bin\Debug\net5.0\FirstNNumberSum.deps.json
+D:\Users\ramal\CodingTrials\c#\FirstNNumberSum\bin\Debug\net5.0\FirstNNumberSum.runtimeconfig.json
+D:\Users\ramal\CodingTrials\c#\FirstNNumberSum\bin\Debug\net5.0\FirstNNumberSum.runtimeconfig.dev.json
+D:\Users\ramal\CodingTrials\c#\FirstNNumberSum\bin\Debug\net5.0\FirstNNumberSum.dll
+D:\Users\ramal\CodingTrials\c#\FirstNNumberSum\bin\Debug\net5.0\ref\FirstNNumberSum.dll
+D:\Users\ramal\CodingTrials\c#\FirstNNumberSum\bin\Debug\net5.0\FirstNNumberSum.pdb
+D:\Users\ramal\CodingTrials\c#\FirstNNumberSum\obj\Debug\net5.0\FirstNNumberSum.csprojAssemblyReference.cache
+D:\Users\ramal\CodingTrials\c#\FirstNNumberSum\obj\Debug\net5.0\FirstNNumberSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ramal\CodingTrials\c#\FirstNNumberSum\obj\Debug\net5.0\FirstNNumberSum.AssemblyInfoInputs.cache
+D:\Users\ramal\CodingTrials\c#\FirstNNumberSum\obj\Debug\net5.0\FirstNNumberSum.AssemblyInfo.cs
+D:\Users\ramal\CodingTrials\c#\FirstNNumberSum\obj\Debug\net5.0\FirstNNumberSum.csproj.CoreCompileInputs.cache
+D:\Users\ramal\CodingTrials\c#\FirstNNumberSum\obj\Debug\net5.0\FirstNNumberSum.dll
+D:\Users\ramal\CodingTrials\c#\FirstNNumberSum\obj\Debug\net5.0\ref\FirstNNumberSum.dll
+D:\Users\ramal\CodingTrials\c#\FirstNNumberSum\obj\Debug\net5.0\FirstNNumberSum.pdb
+D:\Users\ramal\CodingTrials\c#\FirstNNumberSum\obj\Debug\net5.0\FirstNNumberSum.genruntimeconfig.cache

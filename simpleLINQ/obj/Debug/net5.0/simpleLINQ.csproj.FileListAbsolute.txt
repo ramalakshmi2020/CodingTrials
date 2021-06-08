@@ -1,0 +1,16 @@
+D:\Users\ramal\CodingTrials\c#\simpleLINQ\bin\Debug\net5.0\simpleLINQ.exe
+D:\Users\ramal\CodingTrials\c#\simpleLINQ\bin\Debug\net5.0\simpleLINQ.deps.json
+D:\Users\ramal\CodingTrials\c#\simpleLINQ\bin\Debug\net5.0\simpleLINQ.runtimeconfig.json
+D:\Users\ramal\CodingTrials\c#\simpleLINQ\bin\Debug\net5.0\simpleLINQ.runtimeconfig.dev.json
+D:\Users\ramal\CodingTrials\c#\simpleLINQ\bin\Debug\net5.0\simpleLINQ.dll
+D:\Users\ramal\CodingTrials\c#\simpleLINQ\bin\Debug\net5.0\ref\simpleLINQ.dll
+D:\Users\ramal\CodingTrials\c#\simpleLINQ\bin\Debug\net5.0\simpleLINQ.pdb
+D:\Users\ramal\CodingTrials\c#\simpleLINQ\obj\Debug\net5.0\simpleLINQ.csprojAssemblyReference.cache
+D:\Users\ramal\CodingTrials\c#\simpleLINQ\obj\Debug\net5.0\simpleLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ramal\CodingTrials\c#\simpleLINQ\obj\Debug\net5.0\simpleLINQ.AssemblyInfoInputs.cache
+D:\Users\ramal\CodingTrials\c#\simpleLINQ\obj\Debug\net5.0\simpleLINQ.AssemblyInfo.cs
+D:\Users\ramal\CodingTrials\c#\simpleLINQ\obj\Debug\net5.0\simpleLINQ.csproj.CoreCompileInputs.cache
+D:\Users\ramal\CodingTrials\c#\simpleLINQ\obj\Debug\net5.0\simpleLINQ.dll
+D:\Users\ramal\CodingTrials\c#\simpleLINQ\obj\Debug\net5.0\ref\simpleLINQ.dll
+D:\Users\ramal\CodingTrials\c#\simpleLINQ\obj\Debug\net5.0\simpleLINQ.pdb
+D:\Users\ramal\CodingTrials\c#\simpleLINQ\obj\Debug\net5.0\simpleLINQ.genruntimeconfig.cache

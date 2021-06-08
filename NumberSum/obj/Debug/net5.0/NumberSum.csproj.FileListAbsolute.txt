@@ -1,0 +1,16 @@
+D:\Users\ramal\CodingTrials\c#\NumberSum\bin\Debug\net5.0\NumberSum.exe
+D:\Users\ramal\CodingTrials\c#\NumberSum\bin\Debug\net5.0\NumberSum.deps.json
+D:\Users\ramal\CodingTrials\c#\NumberSum\bin\Debug\net5.0\NumberSum.runtimeconfig.json
+D:\Users\ramal\CodingTrials\c#\NumberSum\bin\Debug\net5.0\NumberSum.runtimeconfig.dev.json
+D:\Users\ramal\CodingTrials\c#\NumberSum\bin\Debug\net5.0\NumberSum.dll
+D:\Users\ramal\CodingTrials\c#\NumberSum\bin\Debug\net5.0\ref\NumberSum.dll
+D:\Users\ramal\CodingTrials\c#\NumberSum\bin\Debug\net5.0\NumberSum.pdb
+D:\Users\ramal\CodingTrials\c#\NumberSum\obj\Debug\net5.0\NumberSum.csprojAssemblyReference.cache
+D:\Users\ramal\CodingTrials\c#\NumberSum\obj\Debug\net5.0\NumberSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ramal\CodingTrials\c#\NumberSum\obj\Debug\net5.0\NumberSum.AssemblyInfoInputs.cache
+D:\Users\ramal\CodingTrials\c#\NumberSum\obj\Debug\net5.0\NumberSum.AssemblyInfo.cs
+D:\Users\ramal\CodingTrials\c#\NumberSum\obj\Debug\net5.0\NumberSum.csproj.CoreCompileInputs.cache
+D:\Users\ramal\CodingTrials\c#\NumberSum\obj\Debug\net5.0\NumberSum.dll
+D:\Users\ramal\CodingTrials\c#\NumberSum\obj\Debug\net5.0\ref\NumberSum.dll
+D:\Users\ramal\CodingTrials\c#\NumberSum\obj\Debug\net5.0\NumberSum.pdb
+D:\Users\ramal\CodingTrials\c#\NumberSum\obj\Debug\net5.0\NumberSum.genruntimeconfig.cache
