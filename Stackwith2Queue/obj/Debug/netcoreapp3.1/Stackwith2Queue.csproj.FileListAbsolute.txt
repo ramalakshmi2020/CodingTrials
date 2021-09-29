@@ -1,0 +1,13 @@
+D:\Users\ramal\CodingTrials\c#\Stackwith2Queue\bin\Debug\netcoreapp3.1\Stackwith2Queue.exe
+D:\Users\ramal\CodingTrials\c#\Stackwith2Queue\bin\Debug\netcoreapp3.1\Stackwith2Queue.deps.json
+D:\Users\ramal\CodingTrials\c#\Stackwith2Queue\bin\Debug\netcoreapp3.1\Stackwith2Queue.runtimeconfig.json
+D:\Users\ramal\CodingTrials\c#\Stackwith2Queue\bin\Debug\netcoreapp3.1\Stackwith2Queue.runtimeconfig.dev.json
+D:\Users\ramal\CodingTrials\c#\Stackwith2Queue\bin\Debug\netcoreapp3.1\Stackwith2Queue.dll
+D:\Users\ramal\CodingTrials\c#\Stackwith2Queue\bin\Debug\netcoreapp3.1\Stackwith2Queue.pdb
+D:\Users\ramal\CodingTrials\c#\Stackwith2Queue\obj\Debug\netcoreapp3.1\Stackwith2Queue.csproj.AssemblyReference.cache
+D:\Users\ramal\CodingTrials\c#\Stackwith2Queue\obj\Debug\netcoreapp3.1\Stackwith2Queue.AssemblyInfoInputs.cache
+D:\Users\ramal\CodingTrials\c#\Stackwith2Queue\obj\Debug\netcoreapp3.1\Stackwith2Queue.AssemblyInfo.cs
+D:\Users\ramal\CodingTrials\c#\Stackwith2Queue\obj\Debug\netcoreapp3.1\Stackwith2Queue.csproj.CoreCompileInputs.cache
+D:\Users\ramal\CodingTrials\c#\Stackwith2Queue\obj\Debug\netcoreapp3.1\Stackwith2Queue.dll
+D:\Users\ramal\CodingTrials\c#\Stackwith2Queue\obj\Debug\netcoreapp3.1\Stackwith2Queue.pdb
+D:\Users\ramal\CodingTrials\c#\Stackwith2Queue\obj\Debug\netcoreapp3.1\Stackwith2Queue.genruntimeconfig.cache

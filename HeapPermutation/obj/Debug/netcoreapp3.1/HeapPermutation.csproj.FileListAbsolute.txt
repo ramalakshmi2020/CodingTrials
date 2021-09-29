@@ -4,10 +4,10 @@ D:\Users\ramal\CodingTrials\c#\HeapPermutation\bin\Debug\netcoreapp3.1\HeapPermu
 D:\Users\ramal\CodingTrials\c#\HeapPermutation\bin\Debug\netcoreapp3.1\HeapPermutation.runtimeconfig.dev.json
 D:\Users\ramal\CodingTrials\c#\HeapPermutation\bin\Debug\netcoreapp3.1\HeapPermutation.dll
 D:\Users\ramal\CodingTrials\c#\HeapPermutation\bin\Debug\netcoreapp3.1\HeapPermutation.pdb
-D:\Users\ramal\CodingTrials\c#\HeapPermutation\obj\Debug\netcoreapp3.1\HeapPermutation.csprojAssemblyReference.cache
 D:\Users\ramal\CodingTrials\c#\HeapPermutation\obj\Debug\netcoreapp3.1\HeapPermutation.AssemblyInfoInputs.cache
 D:\Users\ramal\CodingTrials\c#\HeapPermutation\obj\Debug\netcoreapp3.1\HeapPermutation.AssemblyInfo.cs
 D:\Users\ramal\CodingTrials\c#\HeapPermutation\obj\Debug\netcoreapp3.1\HeapPermutation.csproj.CoreCompileInputs.cache
 D:\Users\ramal\CodingTrials\c#\HeapPermutation\obj\Debug\netcoreapp3.1\HeapPermutation.dll
 D:\Users\ramal\CodingTrials\c#\HeapPermutation\obj\Debug\netcoreapp3.1\HeapPermutation.pdb
 D:\Users\ramal\CodingTrials\c#\HeapPermutation\obj\Debug\netcoreapp3.1\HeapPermutation.genruntimeconfig.cache
+D:\Users\ramal\CodingTrials\c#\HeapPermutation\obj\Debug\netcoreapp3.1\HeapPermutation.csproj.AssemblyReference.cache

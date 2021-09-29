@@ -1,0 +1,13 @@
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\Sort012\bin\Debug\netcoreapp3.1\Sort012.exe
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\Sort012\bin\Debug\netcoreapp3.1\Sort012.deps.json
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\Sort012\bin\Debug\netcoreapp3.1\Sort012.runtimeconfig.json
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\Sort012\bin\Debug\netcoreapp3.1\Sort012.runtimeconfig.dev.json
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\Sort012\bin\Debug\netcoreapp3.1\Sort012.dll
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\Sort012\bin\Debug\netcoreapp3.1\Sort012.pdb
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\Sort012\obj\Debug\netcoreapp3.1\Sort012.AssemblyInfoInputs.cache
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\Sort012\obj\Debug\netcoreapp3.1\Sort012.AssemblyInfo.cs
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\Sort012\obj\Debug\netcoreapp3.1\Sort012.csproj.CoreCompileInputs.cache
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\Sort012\obj\Debug\netcoreapp3.1\Sort012.dll
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\Sort012\obj\Debug\netcoreapp3.1\Sort012.pdb
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\Sort012\obj\Debug\netcoreapp3.1\Sort012.genruntimeconfig.cache
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\Sort012\obj\Debug\netcoreapp3.1\Sort012.csproj.AssemblyReference.cache

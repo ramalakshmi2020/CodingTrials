@@ -1,0 +1,12 @@
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\KthSmallestElement\bin\Debug\netcoreapp3.1\KthSmallestElement.exe
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\KthSmallestElement\bin\Debug\netcoreapp3.1\KthSmallestElement.deps.json
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\KthSmallestElement\bin\Debug\netcoreapp3.1\KthSmallestElement.runtimeconfig.json
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\KthSmallestElement\bin\Debug\netcoreapp3.1\KthSmallestElement.runtimeconfig.dev.json
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\KthSmallestElement\bin\Debug\netcoreapp3.1\KthSmallestElement.dll
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\KthSmallestElement\bin\Debug\netcoreapp3.1\KthSmallestElement.pdb
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\KthSmallestElement\obj\Debug\netcoreapp3.1\KthSmallestElement.AssemblyInfoInputs.cache
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\KthSmallestElement\obj\Debug\netcoreapp3.1\KthSmallestElement.AssemblyInfo.cs
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\KthSmallestElement\obj\Debug\netcoreapp3.1\KthSmallestElement.csproj.CoreCompileInputs.cache
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\KthSmallestElement\obj\Debug\netcoreapp3.1\KthSmallestElement.dll
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\KthSmallestElement\obj\Debug\netcoreapp3.1\KthSmallestElement.pdb
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\KthSmallestElement\obj\Debug\netcoreapp3.1\KthSmallestElement.genruntimeconfig.cache

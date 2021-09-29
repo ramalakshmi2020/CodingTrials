@@ -1,0 +1,13 @@
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\MaxSubArraySum\bin\Debug\netcoreapp3.1\MaxSubArraySum.exe
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\MaxSubArraySum\bin\Debug\netcoreapp3.1\MaxSubArraySum.deps.json
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\MaxSubArraySum\bin\Debug\netcoreapp3.1\MaxSubArraySum.runtimeconfig.json
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\MaxSubArraySum\bin\Debug\netcoreapp3.1\MaxSubArraySum.runtimeconfig.dev.json
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\MaxSubArraySum\bin\Debug\netcoreapp3.1\MaxSubArraySum.dll
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\MaxSubArraySum\bin\Debug\netcoreapp3.1\MaxSubArraySum.pdb
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\MaxSubArraySum\obj\Debug\netcoreapp3.1\MaxSubArraySum.csproj.AssemblyReference.cache
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\MaxSubArraySum\obj\Debug\netcoreapp3.1\MaxSubArraySum.AssemblyInfoInputs.cache
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\MaxSubArraySum\obj\Debug\netcoreapp3.1\MaxSubArraySum.AssemblyInfo.cs
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\MaxSubArraySum\obj\Debug\netcoreapp3.1\MaxSubArraySum.csproj.CoreCompileInputs.cache
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\MaxSubArraySum\obj\Debug\netcoreapp3.1\MaxSubArraySum.dll
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\MaxSubArraySum\obj\Debug\netcoreapp3.1\MaxSubArraySum.pdb
+D:\Users\ramal\CodingTrials\c#\DataStructures\Arrays\MaxSubArraySum\obj\Debug\netcoreapp3.1\MaxSubArraySum.genruntimeconfig.cache
