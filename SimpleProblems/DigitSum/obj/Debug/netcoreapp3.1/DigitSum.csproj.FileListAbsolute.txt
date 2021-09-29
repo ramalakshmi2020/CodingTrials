@@ -1,0 +1,13 @@
+D:\Users\ramal\CodingTrials\c#\SimpleProblems\DigitSum\obj\Debug\netcoreapp3.1\DigitSum.csproj.AssemblyReference.cache
+D:\Users\ramal\CodingTrials\c#\SimpleProblems\DigitSum\obj\Debug\netcoreapp3.1\DigitSum.AssemblyInfoInputs.cache
+D:\Users\ramal\CodingTrials\c#\SimpleProblems\DigitSum\obj\Debug\netcoreapp3.1\DigitSum.AssemblyInfo.cs
+D:\Users\ramal\CodingTrials\c#\SimpleProblems\DigitSum\obj\Debug\netcoreapp3.1\DigitSum.csproj.CoreCompileInputs.cache
+D:\Users\ramal\CodingTrials\c#\SimpleProblems\DigitSum\bin\Debug\netcoreapp3.1\DigitSum.exe
+D:\Users\ramal\CodingTrials\c#\SimpleProblems\DigitSum\bin\Debug\netcoreapp3.1\DigitSum.deps.json
+D:\Users\ramal\CodingTrials\c#\SimpleProblems\DigitSum\bin\Debug\netcoreapp3.1\DigitSum.runtimeconfig.json
+D:\Users\ramal\CodingTrials\c#\SimpleProblems\DigitSum\bin\Debug\netcoreapp3.1\DigitSum.runtimeconfig.dev.json
+D:\Users\ramal\CodingTrials\c#\SimpleProblems\DigitSum\bin\Debug\netcoreapp3.1\DigitSum.dll
+D:\Users\ramal\CodingTrials\c#\SimpleProblems\DigitSum\bin\Debug\netcoreapp3.1\DigitSum.pdb
+D:\Users\ramal\CodingTrials\c#\SimpleProblems\DigitSum\obj\Debug\netcoreapp3.1\DigitSum.dll
+D:\Users\ramal\CodingTrials\c#\SimpleProblems\DigitSum\obj\Debug\netcoreapp3.1\DigitSum.pdb
+D:\Users\ramal\CodingTrials\c#\SimpleProblems\DigitSum\obj\Debug\netcoreapp3.1\DigitSum.genruntimeconfig.cache
