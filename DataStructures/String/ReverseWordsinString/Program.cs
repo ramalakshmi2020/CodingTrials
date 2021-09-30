@@ -51,6 +51,8 @@ namespace ReverseWordsinString
             Console.WriteLine("Reverse words in the string .{0}. is .{1}. ", s, ReverseWords(s));
             s = "Alice does not even like bob";
             Console.WriteLine("Reverse words in the string .{0}. is .{1}. ", s, ReverseWords(s));
+            s = "    ";
+            Console.WriteLine("Reverse words in the string .{0}. is .{1}. ", s, ReverseWords(s));
             Console.Read();
         }
     }
