@@ -51,47 +51,57 @@ namespace Queuewith2Stacks
 
         }
 
-        public class MyQueue1
+        
+
+       
+        public class MyQueue2
         {
             private Stack<int> s1;
-            private Stack<int> q1;
-            public MyQueue1()
+            private Stack<int> s2;
+            public MyQueue2()
             {
                 s1 = new Stack<int>();
-                q1 = new Stack<int>();
+                s2 = new Stack<int>();
 
             }
 
             public void Enqueue(int x)
             {
-                //add it to stack
+
                 s1.Push(x);
-
-                q1.Clear();
-                foreach (int i in s1) q1.Push(i);
-
-                
             }
 
             public int Dequeue()
             {
-                int retval =  q1.Pop();
-                s1.Clear();
-                foreach (int i in q1) s1.Push(i);
-                return retval;
+                if(s2.Count == 0)
+                {
+                    while(s1.Count > 0)
+                    {
+                        s2.Push(s1.Pop());
+                    }
+                }
+                return s2.Pop();
             }
 
             public int Peek()
             {
-                return q1.Peek();
+                if (s2.Count == 0)
+                {
+                    while (s1.Count > 0)
+                    {
+                        s2.Push(s1.Pop());
+                    }
+                }
+                return s2.Peek();
             }
             public bool Empty()
             {
-                return s1.Count == 0;
+                return s1.Count +s2.Count == 0;
             }
 
-
         }
+
+       
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");

@@ -77,6 +77,109 @@ namespace Stackwith2Queue
 
         }
 
+        public class MyStack1
+        {
+            private Queue<int> q1, q2;
+
+            public MyStack1()
+            {
+                q1 = new Queue<int>();
+                q2 = new Queue<int>();
+
+
+            }
+
+            public void Push(int x)
+            {
+
+                q1.Enqueue(x);
+                //now need to maintain q
+                while(q2.Count > 0)
+                {
+                    q1.Enqueue(q2.Dequeue());
+                }
+                //swap q1 and q2
+                Queue<int> temp = q1;
+                q1 = q2;
+                q2 = temp;
+            }
+
+            public int Pop()
+            {
+                //pop is last in first out - so should return the last element in the queue;
+                //copy the rest of the elements into the other queue till we reach the last element;
+
+                return q2.Dequeue();
+            }
+            public int Top()
+            {
+                return q2.Peek();
+                
+            }
+
+            public bool Empty()
+            {
+
+                return q2.Count == 0;
+            }
+
+        }
+
+        public class MyStack2
+        {
+            private Queue<int> q1, q2;
+
+            public MyStack2()
+            {
+                q1 = new Queue<int>();
+                q2 = new Queue<int>();
+
+
+            }
+
+            public void Push(int x)
+            {
+
+                q1.Enqueue(x);
+               
+            }
+
+            public int Pop()
+            {
+               while( q1.Count > 1){
+                    q2.Enqueue(q1.Dequeue());
+
+                }
+                int retval = q1.Dequeue();
+                Queue<int> temp = q1;
+                q1 = q2;
+                q2 = temp;
+                return retval;
+            }
+            public int Top()
+            {
+                while (q1.Count > 1)
+                {
+                    q2.Enqueue(q1.Dequeue());
+
+                }
+                int retval = q1.Dequeue();
+                q2.Enqueue(retval);
+                Queue<int> temp = q1;
+                q1 = q2;
+                q2 = temp;
+                return retval;
+
+            }
+
+            public bool Empty()
+            {
+
+                return q2.Count == 0;
+            }
+
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
