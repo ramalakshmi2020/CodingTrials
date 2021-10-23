@@ -23,7 +23,8 @@ namespace RemoveAdjacentDuplicates
                 if (!flag) { s2+= s[i]; i++; }
                 else
                 {
-                    if ((j - i) % 2 == 1) { s2 += s[i]; }
+                    //this line should be removed if you dont atleast one character in the duplicates to remain
+                    //if ((j - i) % 2 == 1) { s2 += s[i]; }
                     i = j;
                 }
 
