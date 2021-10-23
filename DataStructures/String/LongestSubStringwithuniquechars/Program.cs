@@ -7,13 +7,14 @@ namespace LongestSubStringwithuniquechars
     {
         static int LongestSubStringSol1(string s, int[] index)
         {
+           
             Dictionary<char, int> map = new Dictionary<char, int>();
           
             int startindex = 0;
             int maxsslength = 0;
             for(int i=0; i<s.Length; i++)
             {
-                if (map.ContainsKey(s[i])) startindex = map[s[i]] + 1;
+                if (map.ContainsKey(s[i])) startindex = map[s[i]] +1;
                 map[s[i]] = i;
                 if(maxsslength < i - startindex + 1)
                 {
@@ -22,6 +23,7 @@ namespace LongestSubStringwithuniquechars
                     index[1] = i;
                 }
             }
+
             return maxsslength;
 
         }
@@ -63,8 +65,8 @@ namespace LongestSubStringwithuniquechars
             Console.WriteLine("Hello World!");
             Console.WriteLine();
             int[] index = new int[2];
-            int length = LongestSubStringSol1("abcabcbb", index);
-            Console.WriteLine("The longest substring length unique characters in string abcabcbb is {0} with startindex {1} and endindex {2} ", length, index[0], index[1]);
+            int length = LongestSubStringSol1("abcdaef", index);
+            Console.WriteLine("The longest substring length unique characters in string abcdaef is {0} with startindex {1} and endindex {2} ", length, index[0], index[1]);
             length = LongestSubStringSol1("bbbbb", index);
             Console.WriteLine("The longest substring length unique characters in string bbbbb is {0} with startindex {1} and endindex {2} ", length, index[0], index[1]);
             length = LongestSubStringSol1("pwwkew", index);
