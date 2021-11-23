@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ReverseSLL
+namespace ReverseKNodesSLL
 {
     class Program
     {
@@ -25,26 +25,36 @@ namespace ReverseSLL
             }
             Console.Write("\n");
         }
-        static Node Reverse(Node head)
+
+        static Node ReverseKNodes(Node head, int k)
         {
             Node prev = null;
             Node next = null;
             Node current = head;
-            while (current != null)
+            int i = 0;
+           
+            while(current != null && i < k)
             {
                 next = current.next;
                 current.next = prev;
                 prev = current;
                 current = next;
-               
+                i++;
+            }
+            
+            if (current != null)
+            {
+                head.next = ReverseKNodes(current, k);
             }
             return prev;
+
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the number of elements of linked list in line1, the numbers in line 2");
+            Console.WriteLine("Enter the number of nodes in the list");
             string[] element = Console.ReadLine().Trim().Split(' ');
             int n = Convert.ToInt32(element[0]);
+            Console.WriteLine("Enter " +  n + " integer elements separated by space ");
             string elements = Console.ReadLine().Trim();
             string[] s = elements.Split(' ');
             int[] arr1 = new int[n];
@@ -58,10 +68,10 @@ namespace ReverseSLL
                 tail.next = new Node(arr1[i]);
                 tail = tail.next;
             }
-            //int x = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter the number K denoting the size for reversing nodes");
+            int x = Convert.ToInt32(Console.ReadLine());
 
-            Node res = Reverse(head);
-            Console.WriteLine("The reversed list is: ");
+            Node res = ReverseKNodes(head, x);
             printList(res);
         }
     }

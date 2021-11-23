@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ReverseSLL
+namespace NthNodeFromEndSLL
 {
     class Program
     {
@@ -25,26 +25,41 @@ namespace ReverseSLL
             }
             Console.Write("\n");
         }
-        static Node Reverse(Node head)
+        static int getNthFromLast(Node head, int k)
         {
-            Node prev = null;
-            Node next = null;
-            Node current = head;
-            while (current != null)
+            if (k <= 0) return -1;
+            //Your code here
+            int count = 0;
+            Node main = head;
+            Node refnode = head;
+            while (count < k)
             {
-                next = current.next;
-                current.next = prev;
-                prev = current;
-                current = next;
-               
+                if(refnode == null)
+                {
+                    Console.WriteLine(k + " is greater than the length of the list");
+                    return -1;
+                }
+                refnode = refnode.next;
+                count++;
             }
-            return prev;
+           
+            while(refnode != null)
+            {
+                refnode = refnode.next;
+                main = main.next;
+               
+
+            }
+            return main.data;
+
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the number of elements of linked list in line1, the numbers in line 2");
+            Console.WriteLine("Enter the total number of nodes in the list followed by the number Nth from end separated by space");
             string[] element = Console.ReadLine().Trim().Split(' ');
             int n = Convert.ToInt32(element[0]);
+            int k = Convert.ToInt32(element[1]);
+            Console.WriteLine("Enter the integers in each node separated by space");
             string elements = Console.ReadLine().Trim();
             string[] s = elements.Split(' ');
             int[] arr1 = new int[n];
@@ -58,11 +73,10 @@ namespace ReverseSLL
                 tail.next = new Node(arr1[i]);
                 tail = tail.next;
             }
-            //int x = Convert.ToInt32(Console.ReadLine());
 
-            Node res = Reverse(head);
-            Console.WriteLine("The reversed list is: ");
-            printList(res);
+            
+            int res = getNthFromLast(head, k);
+            Console.Write(res + "\n");
         }
     }
 }

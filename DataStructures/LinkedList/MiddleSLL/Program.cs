@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ReverseSLL
+namespace MiddleSLL
 {
     class Program
     {
@@ -25,20 +25,16 @@ namespace ReverseSLL
             }
             Console.Write("\n");
         }
-        static Node Reverse(Node head)
+        static Node MiddleNode(Node head)
         {
-            Node prev = null;
-            Node next = null;
-            Node current = head;
-            while (current != null)
+            Node slow = head;
+            Node fast = head;
+            while(fast != null && fast.next != null)
             {
-                next = current.next;
-                current.next = prev;
-                prev = current;
-                current = next;
-               
+                slow = slow.next;
+                fast = fast.next.next;
             }
-            return prev;
+            return slow;
         }
         static void Main(string[] args)
         {
@@ -60,8 +56,7 @@ namespace ReverseSLL
             }
             //int x = Convert.ToInt32(Console.ReadLine());
 
-            Node res = Reverse(head);
-            Console.WriteLine("The reversed list is: ");
+            Node res = MiddleNode(head);
             printList(res);
         }
     }

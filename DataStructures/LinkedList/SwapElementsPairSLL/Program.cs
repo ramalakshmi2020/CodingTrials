@@ -1,7 +1,8 @@
 ﻿using System;
 
-namespace ReverseSLL
+namespace SwapElementsPairSLL
 {
+    
     class Program
     {
         public class Node
@@ -25,24 +26,33 @@ namespace ReverseSLL
             }
             Console.Write("\n");
         }
-        static Node Reverse(Node head)
+        static Node pairwiseSwap(Node head)
         {
+            if (head == null || head.next == null) return head;
+            
+            Node ret = head.next;
             Node prev = null;
-            Node next = null;
             Node current = head;
-            while (current != null)
+            Node next = null;
+           
+            while (current != null && current.next != null)
             {
                 next = current.next;
-                current.next = prev;
+                current.next = next.next;
+                next.next = current;
+                if (prev != null)
+                    prev.next = next;
                 prev = current;
-                current = next;
-               
+                current = current.next;
+                    
             }
-            return prev;
+                
+            
+            return ret;
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the number of elements of linked list in line1, the numbers in line 2");
+            Console.WriteLine("Enter the number of elements of linked list  in line1, the numbers in line 2 for pairwise swap");
             string[] element = Console.ReadLine().Trim().Split(' ');
             int n = Convert.ToInt32(element[0]);
             string elements = Console.ReadLine().Trim();
@@ -60,8 +70,7 @@ namespace ReverseSLL
             }
             //int x = Convert.ToInt32(Console.ReadLine());
 
-            Node res = Reverse(head);
-            Console.WriteLine("The reversed list is: ");
+            Node res = pairwiseSwap(head);
             printList(res);
         }
     }
